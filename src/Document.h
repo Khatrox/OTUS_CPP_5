@@ -27,7 +27,7 @@ private:
     std::string Name;
     std::string Description;
     std::string StorePath;
-    std::unique_ptr<Graphic> Graphic;
+    std::unique_ptr<Graphic> graphic;
 
 };
 

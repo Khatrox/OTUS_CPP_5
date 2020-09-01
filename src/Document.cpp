@@ -7,9 +7,9 @@
 
 Document::Document()
 :
-Graphic{}
+graphic{}
 {
-        Graphic = Global::Get().GetGraphicFactory().GetCanvas();
+    graphic = Global::Get().GetGraphicFactory().GetCanvas();
 }
 
 Document::Document(const std::string &Content)
@@ -53,11 +53,11 @@ std::string Document::GetStorePath() const
 
 Graphic* Document::GetComponent() const
 {
-    return Graphic.get();
+    return graphic.get();
 }
 
 void Document::Save()
 {
-    auto Content = Graphic->GetContent();
+    auto Content = graphic->GetContent();
     Global::Get().GetFileManager().SaveDoc(StorePath,Content);
 }
