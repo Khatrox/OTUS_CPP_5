@@ -1,0 +1,5 @@
+<map id="Circle" name="Circle">
+<area shape="rect" id="node3" href="$struct_k_d_e_circle.html" title="{KDECircle\n||+ Draw()\l+ GetContent()\l}" alt="" coords="5,315,127,407"/>
+<area shape="rect" id="node4" href="$struct_win_circle.html" title="{WinCircle\n||+ Draw()\l+ GetContent()\l}" alt="" coords="151,315,272,407"/>
+<area shape="rect" id="node2" href="$struct_graphic.html" title="{Graphic\n||+ ~Graphic()\l+ Draw()\l+ Add()\l+ Remove()\l+ GetContent()\l}" alt="" coords="77,5,199,141"/>
+</map>

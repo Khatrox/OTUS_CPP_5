@@ -1,0 +1,14 @@
+<map id="Graphic" name="Graphic">
+<area shape="rect" id="node2" href="$struct_canvas.html" title="{Canvas\n||}" alt="" coords="176,189,247,267"/>
+<area shape="rect" id="node5" href="$struct_circle.html" title="{Circle\n||}" alt="" coords="473,189,531,267"/>
+<area shape="rect" id="node8" href="$struct_rectangle.html" title="{Rectangle\n||}" alt="" coords="604,189,691,267"/>
+<area shape="rect" id="node11" href="$struct_square.html" title="{Square\n||}" alt="" coords="905,189,971,267"/>
+<area shape="rect" id="node3" href="$struct_k_d_e_canvas.html" title="{KDECanvas\n||+ Draw()\l+ Add()\l+ Remove()\l+ GetContent()\l}" alt="" coords="5,315,127,436"/>
+<area shape="rect" id="node4" href="$struct_win_canvas.html" title="{WinCanvas\n||+ Draw()\l+ Add()\l+ Remove()\l+ GetContent()\l}" alt="" coords="151,315,272,436"/>
+<area shape="rect" id="node6" href="$struct_k_d_e_circle.html" title="{KDECircle\n||+ Draw()\l+ GetContent()\l}" alt="" coords="296,329,417,421"/>
+<area shape="rect" id="node7" href="$struct_win_circle.html" title="{WinCircle\n||+ Draw()\l+ GetContent()\l}" alt="" coords="441,329,563,421"/>
+<area shape="rect" id="node9" href="$struct_k_d_e_rectangle.html" title="{KDERectangle\n||+ Draw()\l+ GetContent()\l}" alt="" coords="587,329,708,421"/>
+<area shape="rect" id="node10" href="$struct_win_rectangle.html" title="{WinRectangle\n||+ Draw()\l+ GetContent()\l}" alt="" coords="732,329,853,421"/>
+<area shape="rect" id="node12" href="$struct_k_d_e_square.html" title="{KDESquare\n||+ Draw()\l+ GetContent()\l}" alt="" coords="877,329,999,421"/>
+<area shape="rect" id="node13" href="$struct_win_square.html" title="{WinSquare\n||+ Draw()\l+ GetContent()\l}" alt="" coords="1023,329,1144,421"/>
+</map>

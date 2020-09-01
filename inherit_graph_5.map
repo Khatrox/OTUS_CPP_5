@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_graphic_factory.html" title="GraphicFactory" alt="" coords="5,31,124,57"/>
+<area shape="rect" id="node2" href="$struct_k_d_e_factory.html" title="KDEFactory" alt="" coords="188,5,284,32"/>
+<area shape="rect" id="node3" href="$struct_windows_factory.html" title="WindowsFactory" alt="" coords="172,56,300,83"/>
+</map>

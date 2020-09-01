@@ -1,0 +1,4 @@
+<map id="GraphicFactory" name="GraphicFactory">
+<area shape="rect" id="node2" href="$struct_k_d_e_factory.html" title="{KDEFactory\n||+ GetSquare()\l+ GetCircle()\l+ GetRectangle()\l+ GetCanvas()\l}" alt="" coords="5,189,140,311"/>
+<area shape="rect" id="node3" href="$struct_windows_factory.html" title="{WindowsFactory\n||+ GetSquare()\l+ GetCircle()\l+ GetRectangle()\l+ GetCanvas()\l}" alt="" coords="164,189,299,311"/>
+</map>

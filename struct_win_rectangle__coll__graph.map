@@ -1,0 +1,4 @@
+<map id="WinRectangle" name="WinRectangle">
+<area shape="rect" id="node2" href="$struct_rectangle.html" title="{Rectangle\n||}" alt="" coords="23,189,109,267"/>
+<area shape="rect" id="node3" href="$struct_graphic.html" title="{Graphic\n||+ ~Graphic()\l+ Draw()\l+ Add()\l+ Remove()\l+ GetContent()\l}" alt="" coords="5,5,127,141"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="WinCanvas" name="WinCanvas">
+<area shape="rect" id="node2" href="$struct_canvas.html" title="{Canvas\n||}" alt="" coords="31,189,101,267"/>
+<area shape="rect" id="node3" href="$struct_graphic.html" title="{Graphic\n||+ ~Graphic()\l+ Draw()\l+ Add()\l+ Remove()\l+ GetContent()\l}" alt="" coords="5,5,127,141"/>
+</map>
