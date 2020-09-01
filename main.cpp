@@ -13,9 +13,9 @@ int main()
     auto doc = docBuilder.Build();
     auto Canvas = doc->GetComponent();
 
-    auto StartGame = Global::Get().GetGraphicFactory()->GetRectangle();
-    auto Settings = Global::Get().GetGraphicFactory()->GetRectangle();
-    auto ExitGame = Global::Get().GetGraphicFactory()->GetRectangle();
+    auto StartGame = Global::Get().GetGraphicFactory().GetRectangle();
+    auto Settings = Global::Get().GetGraphicFactory().GetRectangle();
+    auto ExitGame = Global::Get().GetGraphicFactory().GetRectangle();
 
     Canvas->Add(std::move(StartGame));
     Canvas->Add(std::move(Settings));
